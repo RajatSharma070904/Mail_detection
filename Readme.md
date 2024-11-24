@@ -29,3 +29,5 @@ The **Email Detection App** is a Streamlit-based web application that analyzes t
 - Streamlit library
 - (Optional) Hugging Face Transformers library for advanced models
 
+ ##Link 
+ https://maildetection-mnernzntjgq5tdebmhecxg.streamlit.app/
